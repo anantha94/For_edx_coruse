@@ -1,2 +1,2 @@
-# For_edx_coruse
+# For_edx_course
 My first repo.
